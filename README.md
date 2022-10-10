@@ -1,5 +1,4 @@
 
-![alt text](/botcogdiagram.png)
 
 
 # Building a search engine to find proper employees for new projects in DXC 
